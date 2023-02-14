@@ -15,7 +15,6 @@ make
 
 ## Usage
 ```lua
-Copy code
 Usage: cpprun [OPTIONS] source_file
 Compile and run C++ program quickly.
 Options:
